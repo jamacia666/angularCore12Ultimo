@@ -1,0 +1,6 @@
+git config --global user.email "jamacia666@gmail.com"
+git config --global user.name "Jose antonio"
+
+para ejecutar ng serve
+
+Estoy parado en el 53 (el 68 es el fin del front);
